@@ -16,7 +16,7 @@
 
 #### Idiom Type Classification
 
-* [Context Extraction Script]()
+* [Context Extraction Script](https://github.com/alinaalborova/russian_idioms_processing/blob/main/RNC.ipynb)
 * [ANC Dataset](https://docs.google.com/spreadsheets/d/12LgOQ9RDPbE30Jete6zx-wLEnNo0JJ30J18TNmTMsZo/edit?usp=sharing)
 * [VNC Dataset](https://docs.google.com/spreadsheets/d/1gNLcdUXn6Z5ct_BPC4C2lI8sykzupSh_FGmCC4DetGE/edit?usp=sharing)
 * [Experiments with fastText](MICE_fastText.ipynb)
